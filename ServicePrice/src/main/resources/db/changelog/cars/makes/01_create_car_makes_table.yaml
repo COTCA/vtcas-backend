@@ -1,0 +1,34 @@
+databaseChangeLog:
+  - changeSet:
+      id: 01_create_car_makes_table
+      author: Txao
+      changes:
+        - createTable:
+            tableName: car_makes
+            columns:
+              - column:
+                  name: id
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+                    foreignKeyName: car_makes_pk
+              - column:
+                  name: name
+                  type: VARCHAR(20)
+  - changeSet:
+      id: load_data_car_makes
+      author: Txao
+      changes:
+        - loadData:
+            tableName: car_makes
+            columns:
+              - column:
+                  name: name
+                  type: VARCHAR(20)
+            encoding: UTF-8
+            file: classpath:/db/data/cars/makes/car_makes.csv
+            schemaName: public
+            table: car_makes
+            separator: ;

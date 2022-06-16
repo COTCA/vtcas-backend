@@ -1,34 +1,32 @@
 databaseChangeLog:
   - changeSet:
-      id: 01_create_car_makes_table
+      id: 05_create_drivetrain_types_table
       author: Txao
       changes:
         - createTable:
-            tableName: car_makes
+            tableName: drivetrain_types
             columns:
               - column:
                   name: id
                   type: bigint
                   autoIncrement: true
                   constraints:
-                    primaryKey: true
                     nullable: false
-                    foreignKeyName: car_makes_pk
               - column:
                   name: name
-                  type: VARCHAR(20)
+                  type: VARCHAR(10)
   - changeSet:
-      id: load_data_car_makes
+      id: load_data_drivetrain_types
       author: Txao
       changes:
         - loadData:
-            tableName: car_makes
+            tableName: drivetrain_types
             columns:
               - column:
                   name: name
-                  type: VARCHAR(20)
+                  type: VARCHAR(10)
             encoding: UTF-8
-            file: classpath:/db/data/cars/makes/car_makes.csv
+            file: classpath:/db/data/cars/drivetrain_types.csv
             schemaName: public
-            table: car_makes
+            table: drivetrain_types
             separator: ;

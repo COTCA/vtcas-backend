@@ -1,5 +1,11 @@
 databaseChangeLog:
   - include:
-      file: db/changelog/cars/makes/01_create_car_makes_table.yaml
-  - include:
       file: db/changelog/cars/01_create_cars_table.yaml
+  - include:
+      file: db/changelog/cars/02_create_transmission_types_table.yaml
+  - include:
+      file: db/changelog/cars/03_create_body_types_table.yaml
+  - include:
+      file: db/changelog/cars/04_create_engine_types_table.yaml
+  - include:
+      file: db/changelog/cars/05_create_drivetrain_types_table.yaml

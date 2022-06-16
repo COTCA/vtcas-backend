@@ -1,0 +1,32 @@
+databaseChangeLog:
+  - changeSet:
+      id: 03_create_body_types_table
+      author: Txao
+      changes:
+        - createTable:
+            tableName: body_types
+            columns:
+              - column:
+                  name: id
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    nullable: false
+              - column:
+                  name: name
+                  type: VARCHAR(15)
+  - changeSet:
+      id: load_data_body_types
+      author: Txao
+      changes:
+        - loadData:
+            tableName: body_types
+            columns:
+              - column:
+                  name: name
+                  type: VARCHAR(15)
+            encoding: UTF-8
+            file: classpath:/db/data/cars/body_types.csv
+            schemaName: public
+            table: body_types
+            separator: ;

@@ -42,3 +42,507 @@ Audi;SQ5
 Audi;SQ7
 Audi;TT
 Audi;V8 (D11)
+BMW;1 серия
+BMW;2 серия
+BMW;3 серия
+BMW;4 серия
+BMW;4 серия Gran Coupe
+BMW;5 серия
+BMW;6 серия
+BMW;6 серия Gran Coupe
+BMW;7 серия
+BMW;i3
+BMW;M3
+BMW;M4
+BMW;M5
+BMW;M6
+BMW;X1
+BMW;X2
+BMW;X3
+BMW;X4
+BMW;X5
+BMW;X5 M
+BMW;X6
+BMW;X6 M
+BMW;X7
+BMW;Z4
+Chevrolet;Astro
+Chevrolet;Aveo
+Chevrolet;Blazer
+Chevrolet;Camaro
+Chevrolet;Captive
+Chevrolet;Cavalier
+Chevrolet;Cobalt
+Chevrolet;Cruze
+Chevrolet;Epica
+Chevrolet;Express
+Chevrolet;Lacetti
+Chevrolet;Lanos
+Chevrolet;Malibu
+Chevrolet;Niva
+Chevrolet;Orlando
+Chevrolet;Rezzo
+Chevrolet;Tahoe
+Chevrolet;TrailBlazer
+Chevrolet;Volt
+Daewoo;Espero
+Daewoo;Lanos
+Daewoo;Leganza
+Daewoo;Magnus
+Daewoo;Matiz
+Daewoo;Nexia
+Daewoo;Nubira
+Ford;Bronco
+Ford;C-MAX
+Ford;Customline
+Ford;Edge
+Ford;Escape
+Ford;Escort
+Ford;Expedition
+Ford;Explorer
+Ford;F-150
+Ford;Fiesta
+Ford;Focus
+Ford;Focus ST
+Ford;Fusion
+Ford;Fusion (North America)
+Ford;Galaxy
+Ford;Ka
+Ford;Kuga
+Ford;Mondeo
+Ford;Mustang
+Ford;Ranger
+Ford;Scorpio
+Ford;S-MAX
+Ford;Tourneo Connect
+Ford;Transit
+Ford;Transit Connect
+Ford;Windstar
+Honda;Accord
+Honda;Ascot
+Honda;Civic
+Honda;CR-V
+Honda;Elysion
+Honda;Fit
+Honda;Freed
+Honda;HR-V
+Honda;MDX
+Honda;Odyssey
+Honda;Odyssey (North America)
+Honda;Pilot
+Honda;Ridgeline
+Honda;S-MX
+Honda;Stepwgn
+Honda;Vezel
+Hyundai;Accent
+Hyundai;Avante
+Hyundai;Creta
+Hyundai;Elantra
+Hyundai;Equus
+Hyundai;Genesis
+Hyundai;Getz
+Hyundai;Grandeur
+Hyundai;Grand Santa Fe
+Hyundai;Grand Starex
+Hyundai;H-1
+Hyundai;i10
+Hyundai;i30
+Hyundai;i40
+Hyundai;ix35
+Hyundai;ix55
+Hyundai;Palisade
+Hyundai;Porter
+Hyundai;Santa Fe
+Hyundai;Solaris
+Hyundai;Sonata
+Hyundai;Starex
+Hyundai;Trajet
+Hyundai;Tucson
+Hyundai;Verna
+Hyundai;XG
+Infiniti;EX35
+Infiniti;FX35
+Infiniti;FX37
+Infiniti;FX45
+Infiniti;FX50
+Infiniti;G25
+Infiniti;G35
+Infiniti;G37
+Infiniti;M35
+Infiniti;M37
+Infiniti;M45
+Infiniti;Q50
+Infiniti;Q70
+Infiniti;QX4
+Infiniti;QX56
+Infiniti;QX70
+Infiniti;QX80
+Kia;Bongo
+Kia;Cadenza
+Kia;Carens
+Kia;Carnival
+Kia;Ceed
+Kia;Cerato
+Kia;K3
+Kia;K5
+Kia;K900
+Kia;Magentis
+Kia;Mohave
+Kia;Opirus
+Kia;Optima
+Kia;Picanto
+Kia;Quoris
+Kia;Rio
+Kia;Rio X
+Kia;Rio X-Line
+Kia;Seltos
+Kia;Sephia
+Kia;Sorento
+Kia;Sorento Prime
+Kia;Soul
+Kia;Spectra
+Kia;Sportage
+Land Rover;Defender
+Land Rover;Discovery
+Land Rover;Freelander
+Land Rover;Range Rover
+Land Rover;Range Rover Evoque
+Land Rover;Range Rover Sport
+Lexus;ES
+Lexus;GS
+Lexus;GX
+Lexus;HS
+Lexus;IS
+Lexus;LS
+Lexus;LX
+Lexus;NX
+Lexus;RX
+Lexus;UX
+LIFAN;Breez (520)
+LIFAN;Cebrium (720)
+LIFAN;Myway
+LIFAN;Smily (320)
+LIFAN;Solano
+LIFAN;X50
+LIFAN;X60
+Mazda;3
+Mazda;323
+Mazda;3 MPS
+Mazda;6
+Mazda;626
+Mazda;6 MPS
+Mazda;Bongo
+Mazda;Cronos
+Mazda;CX-5
+Mazda;CX-7
+Mazda;CX-9
+Mazda;Demio
+Mazda;Familia
+Mazda;MPV
+Mazda;Protege
+Mazda;RX-7
+Mazda;RX-8
+Mazda;Tribute
+Mazda;Xedos 6
+Mercedes-Benz;190 (W201)
+Mercedes-Benz;A-класс
+Mercedes-Benz;B-класс
+Mercedes-Benz;C-класс
+Mercedes-Benz;CLS-класс
+Mercedes-Benz;CLS-класс AMG
+Mercedes-Benz;E-класс
+Mercedes-Benz;E-класс AMG
+Mercedes-Benz;G-класс
+Mercedes-Benz;G-класс AMG
+Mercedes-Benz;GL-класс
+Mercedes-Benz;GL-класс AMG
+Mercedes-Benz;GLA-класс
+Mercedes-Benz;GLE-класс
+Mercedes-Benz;GLE-класс Coupe
+Mercedes-Benz;GLE-класс AMG
+Mercedes-Benz;GLE-класс AMG Coupe
+Mercedes-Benz;GLK-класс
+Mercedes-Benz;GLS-класс
+Mercedes-Benz;M-класс
+Mercedes-Benz;M-класс AMG
+Mercedes-Benz;S-класс
+Mercedes-Benz;S-класс AMG
+Mercedes-Benz;Sprinter
+Mercedes-Benz;Sprinter Classic
+Mercedes-Benz;Viano
+Mercedes-Benz;Vito
+Mercedes-Benz;W124
+Mitsubishi;Airtrek
+Mitsubishi;ASX
+Mitsubishi;Carisma
+Mitsubishi;Chariot
+Mitsubishi;Colt
+Mitsubishi;Delica D5
+Mitsubishi;Diamante
+Mitsubishi;Dion
+Mitsubishi;Galant
+Mitsubishi;Grandis
+Mitsubishi;L200
+Mitsubishi;Lancer
+Mitsubishi;Lancer Cedia
+Mitsubishi;Lancer Evolution
+Mitsubishi;Mirage
+Mitsubishi;Montero
+Mitsubishi;Montero Sport
+Mitsubishi;Outlander
+Mitsubishi;Pajero
+Mitsubishi;Pajero iO
+Mitsubishi;Pajero Mini
+Mitsubishi;Pajero Pinin
+Mitsubishi;RVR
+Mitsubishi;Space Star
+Nissan;Almera
+Nissan;Almera Classic
+Nissan;Altima
+Nissan;Bluebird
+Nissan;Cefiro
+Nissan;Elgrand
+Nissan;Fuga
+Nissan;Juke
+Nissan;Leaf
+Nissan;Maxima
+Nissan;Murano
+Nissan;Navara
+Nissan;Note
+Nissan;Pathfinder
+Nissan;Patrol
+Nissan;Presage
+Nissan;Primera
+Nissan;Pulsar
+Nissan;Qashqai
+Nissan;Qashqai+2
+Nissan;Quest
+Nissan;Serena
+Nissan;Skyline
+Nissan;Sunny
+Nissan;Teana
+Nissan;Tiida
+Nissan;X-Terra
+Nissan;X-Trail
+Opel;Antara
+Opel;Astra
+Opel;Astra GTC
+Opel;Calibra
+Opel;Corsa
+Opel;Frontera
+Opel;Insignia
+Opel;Meriva
+Opel;Mokka
+Opel;Omega
+Opel;Sintra
+Opel;Tigra
+Opel;Vectra
+Opel;Vectra OPC
+Opel;Zafira
+Peugeot;107
+Peugeot;206
+Peugeot;207
+Peugeot;307
+Peugeot;308
+Peugeot;406
+Peugeot;407
+Peugeot;408
+Peugeot;605
+Peugeot;607
+Peugeot;806
+Peugeot;Boxer
+Peugeot;Partner
+Porsche;Boxster
+Porsche;Cayenne
+Porsche;Cayenne GTS
+Porsche;Cayenne S
+Porsche;Cayenne Turbo
+Porsche;Cayenne Turbo S
+Porsche;Cayman S
+Porsche;Panamera
+Porsche;Panamera 4
+Porsche;Panamera 4S
+Porsche;Panamera GTS
+Porsche;Panamera S
+Porsche;Panamera Turbo
+Renault;Clio
+Renault;Duster
+Renault;Espace
+Renault;Fluence
+Renault;Grand Espace
+Renault;Grand Scenic
+Renault;Kangoo
+Renault;Kaptur
+Renault;Laguna
+Renault;Latitude
+Renault;Logan
+Renault;Master
+Renault;Megane
+Renault;Sandero
+Renault;Sandero Stepway
+Renault;Scenic
+Renault;Symbol
+Skoda;Fabia
+Skoda;Kodiaq
+Skoda;Octavia
+Skoda;Rapid
+Skoda;Roomster
+Skoda;Superb
+Skoda;Yeti
+Toyota;Alphard
+Toyota;Auris
+Toyota;Avensis
+Toyota;Camry
+Toyota;Carina E
+Toyota;Chaser
+Toyota;Corolla
+Toyota;Cresta
+Toyota;Crown
+Toyota;Crown Majesta
+Toyota;Estima
+Toyota;FJ Cruiser
+Toyota;Fortuner
+Toyota;Hiace
+Toyota;Highlander
+Toyota;Hilux
+Toyota;Ipsum
+Toyota;Land Cruiser
+Toyota;Land Cruiser Prado
+Toyota;Mark II
+Toyota;Mark II Wagon Qualis
+Toyota;Mark X
+Toyota;Prius
+Toyota;RAV4
+Toyota;Sequoia
+Toyota;Sienna
+Toyota;Vellfire
+Toyota;Vista
+Volkswagen;Amarok
+Volkswagen;Beetle
+Volkswagen;Bora
+Volkswagen;Caddy
+Volkswagen;Caravelle
+Volkswagen;Crafter
+Volkswagen;Golf
+Volkswagen;Golf Plus
+Volkswagen;Jetta
+Volkswagen;LT
+Volkswagen;Multivan
+Volkswagen;New Beetle
+Volkswagen;Passat
+Volkswagen;Passat CC
+Volkswagen;Passat (North America)
+Volkswagen;Pointer
+Volkswagen;Polo
+Volkswagen;Routan
+Volkswagen;Sharan
+Volkswagen;Teramont
+Volkswagen;Tiguan
+Volkswagen;Touareg
+Volkswagen;Touran
+Volkswagen;Transporter
+Volvo;240
+Volvo;740
+Volvo;850
+Volvo;940
+Volvo;960
+Volvo;S40
+Volvo;S60
+Volvo;S70
+Volvo;S80
+Volvo;V70
+Volvo;XC60
+Volvo;XC90
+ВАЗ (LADA);1111 Ока
+ВАЗ (LADA);2101
+ВАЗ (LADA);2102
+ВАЗ (LADA);2103
+ВАЗ (LADA);2104
+ВАЗ (LADA);2105
+ВАЗ (LADA);2106
+ВАЗ (LADA);2107
+ВАЗ (LADA);2108
+ВАЗ (LADA);2109
+ВАЗ (LADA);21099
+ВАЗ (LADA);2110
+ВАЗ (LADA);2111
+ВАЗ (LADA);2112
+ВАЗ (LADA);2113 Samara
+ВАЗ (LADA);2114 Samara
+ВАЗ (LADA);2115 Samara
+ВАЗ (LADA);2120 Надежда
+ВАЗ (LADA);2121 (4x4) Bronto
+ВАЗ (LADA);2121 (4x4) Urban
+ВАЗ (LADA);2121 (4x4) Рысь
+ВАЗ (LADA);2121 (4x4) Фора
+ВАЗ (LADA);2123
+ВАЗ (LADA);2131 (4x4) Urban
+ВАЗ (LADA);2131 (4x4) Рысь
+ВАЗ (LADA);2329
+ВАЗ (LADA);4x4 (Нива)
+ВАЗ (LADA);El Lada
+ВАЗ (LADA);Granta
+ВАЗ (LADA);Granta Cross
+ВАЗ (LADA);Kalina
+ВАЗ (LADA);Kalina Cross
+ВАЗ (LADA);Largus
+ВАЗ (LADA);Largus Cross
+ВАЗ (LADA);Niva
+ВАЗ (LADA);Niva Legend
+ВАЗ (LADA);Niva Travel
+ВАЗ (LADA);Priora
+ВАЗ (LADA);Vesta
+ВАЗ (LADA);Vesta Cross
+ВАЗ (LADA);XRAY
+ВАЗ (LADA);XRAY Cross
+ВИС;1705
+ВИС;2345
+ВИС;2346
+ВИС;2347
+ВИС;2349
+ВИС;2950
+ГАЗ;12 ЗИМ
+ГАЗ;14 Чайка
+ГАЗ;21 Волга
+ГАЗ;24 Волга
+ГАЗ;310221 Волга
+ГАЗ;31029 Волга
+ГАЗ;3102 Волга
+ГАЗ;31105 Волга
+ГАЗ;3110 Волга
+ГАЗ;3111 Волга
+ГАЗ;64
+ГАЗ;69
+ГАЗ;Volga Siber
+ГАЗ;ГАЗель 2705
+ГАЗ;ГАЗель 2747
+ГАЗ;ГАЗель 3221
+ГАЗ;ГАЗель 3302
+ГАЗ;ГАЗель 33023
+ГАЗ;ГАЗель Next
+ГАЗ;М-20 Победа
+ГАЗ;М-72
+ГАЗ;Соболь 2217
+ГАЗ;Соболь 2310
+ГАЗ;Соболь 2752
+УАЗ;2206
+УАЗ;3151
+УАЗ;31512
+УАЗ;31514
+УАЗ;31519
+УАЗ;3160
+УАЗ;3303
+УАЗ;3741
+УАЗ;3909
+УАЗ;39094
+УАЗ;39095
+УАЗ;3962
+УАЗ;450
+УАЗ;452 Буханка
+УАЗ;469
+УАЗ;Hunter
+УАЗ;Patriot
+УАЗ;Pickup
+УАЗ;Карго
+УАЗ;Профи
+УАЗ;Симбир

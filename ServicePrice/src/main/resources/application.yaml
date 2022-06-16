@@ -1,9 +1,9 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/postgres
+    url: jdbc:postgresql://localhost:[PORT]/[DATABASE]
     driver-class-name: org.postgresql.Driver
-    username: postgres
-    password: qwerty
+    username:
+    password:
   liquibase:
     change-log: classpath:/db/changelog-master.yaml
 
@@ -13,4 +13,4 @@ logging:
 
 server:
   servlet:
-    context-path: /ref-back
+    context-path: /ref-backend

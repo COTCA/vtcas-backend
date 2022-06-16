@@ -1,0 +1,32 @@
+databaseChangeLog:
+  - changeSet:
+      id: 04_create_engine_types_table
+      author: Txao
+      changes:
+        - createTable:
+            tableName: engine_types
+            columns:
+              - column:
+                  name: id
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    nullable: false
+              - column:
+                  name: name
+                  type: VARCHAR(15)
+  - changeSet:
+      id: load_data_engine_types
+      author: Txao
+      changes:
+        - loadData:
+            tableName: engine_types
+            columns:
+              - column:
+                  name: name
+                  type: VARCHAR(15)
+            encoding: UTF-8
+            file: classpath:/db/data/cars/engine_types.csv
+            schemaName: public
+            table: engine_types
+            separator: ;

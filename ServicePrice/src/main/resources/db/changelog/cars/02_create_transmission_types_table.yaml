@@ -1,0 +1,32 @@
+databaseChangeLog:
+  - changeSet:
+      id: 02_create_transmission_types_table
+      author: Txao
+      changes:
+        - createTable:
+            tableName: transmission_types
+            columns:
+              - column:
+                  name: id
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    nullable: false
+              - column:
+                  name: name
+                  type: VARCHAR(5)
+  - changeSet:
+      id: load_data_transmission_types
+      author: Txao
+      changes:
+        - loadData:
+            tableName: transmission_types
+            columns:
+              - column:
+                  name: name
+                  type: VARCHAR(5)
+            encoding: UTF-8
+            file: classpath:/db/data/cars/transmission_types.csv
+            schemaName: public
+            table: transmission_types
+            separator: ;

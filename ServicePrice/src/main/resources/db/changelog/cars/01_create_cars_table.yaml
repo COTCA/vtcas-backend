@@ -16,10 +16,10 @@ databaseChangeLog:
                     foreignKeyName: cars_pk
               - column:
                   name: make
-                  type: VARCHAR(20)
+                  type: VARCHAR(50)
               - column:
                   name: model
-                  type: VARCHAR(20)
+                  type: VARCHAR(50)
   - changeSet:
       id: load_data_cars
       author: Txao

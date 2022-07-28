@@ -15,7 +15,7 @@ databaseChangeLog:
                     nullable: false
                     foreignKeyName: cars_pk
               - column:
-                  name: make
+                  name: mark
                   type: VARCHAR(50)
               - column:
                   name: model
@@ -28,7 +28,7 @@ databaseChangeLog:
             tableName: cars
             columns:
               - column:
-                  name: make
+                  name: mark
                   type: VARCHAR(20)
               - column:
                   name: model

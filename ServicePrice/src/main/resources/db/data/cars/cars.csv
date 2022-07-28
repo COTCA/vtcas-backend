@@ -1,4 +1,4 @@
-make;model
+mark;model
 AC;378 GT Zagato
 AC;Ace
 AC;Aceca
@@ -13,7 +13,6 @@ Acura;MDX
 Acura;NSX
 Acura;RDX
 Acura;RL
-Acura;RLX
 Acura;RSX
 Acura;SLX
 Acura;TL
@@ -22,7 +21,6 @@ Acura;TSX
 Acura;ZDX
 Adler;Diplomat
 Adler;Trumpf Junior
-Alfa Romeo;105/115
 Alfa Romeo;145
 Alfa Romeo;146
 Alfa Romeo;147
@@ -31,28 +29,17 @@ Alfa Romeo;156
 Alfa Romeo;159
 Alfa Romeo;164
 Alfa Romeo;166
-Alfa Romeo;1900
-Alfa Romeo;2600
 Alfa Romeo;33
 Alfa Romeo;4C
 Alfa Romeo;6
 Alfa Romeo;6C
 Alfa Romeo;75
-Alfa Romeo;8C Competizione
-Alfa Romeo;90
-Alfa Romeo;Alfasud
-Alfa Romeo;Alfetta
-Alfa Romeo;Arna
 Alfa Romeo;Brera
-Alfa Romeo;Disco Volante
 Alfa Romeo;Giulia
 Alfa Romeo;Giulietta
 Alfa Romeo;GT
-Alfa Romeo;GTA Coupe
 Alfa Romeo;GTV
 Alfa Romeo;MiTo
-Alfa Romeo;Montreal
-Alfa Romeo;RZ
 Alfa Romeo;Spider
 Alfa Romeo;Sprint
 Alfa Romeo;Stelvio
@@ -66,63 +53,34 @@ Alpina;B4
 Alpina;B5
 Alpina;B6
 Alpina;B7
-Alpina;B8
-Alpina;B9
-Alpina;C1
-Alpina;C2
 Alpina;D10
 Alpina;D3
 Alpina;D4
 Alpina;D5
 Alpina;Roadster
-Alpina;XB7
 Alpina;XD3
-Alpina;XD4
-Alpine;A110
-Alpine;A310
-Alpine;A610
-Alpine;GTA
 AM General;HMMWV (Humvee)
 AMC;Eagle
 AMC;Hornet
-AMC;Rambler Ambassador
-AMC;Rambler Classic
-Apal;21541 Stalker
 Ariel;Atom
-Ariel;Nomad
 Aro;10
 Aro;24
-Asia;Retona
 Asia;Rocsta
 Asia;Topic
 Asia;Towner
-Aston Martin;Bulldog
-Aston Martin;Cygnet
-Aston Martin;DB AR1
 Aston Martin;DB11
-Aston Martin;DB5
 Aston Martin;DB7
 Aston Martin;DB9
 Aston Martin;DBS
 Aston Martin;DBX
-Aston Martin;Lagonda
-Aston Martin;One-77
 Aston Martin;Rapide
-Aston Martin;Tickford Capri
-Aston Martin;V12 Vantage
-Aston Martin;V12 Zagato
 Aston Martin;V8 Vantage
-Aston Martin;V8 Zagato
 Aston Martin;Vanquish
 Aston Martin;Virage
-Aston Martin;Vulcan
-Auburn;Speedster
 Audi;100
 Audi;200
-Audi;50
 Audi;80
 Audi;90
-Audi;920
 Audi;A1
 Audi;A2
 Audi;A3
@@ -140,20 +98,17 @@ Audi;e-tron GT
 Audi;e-tron S
 Audi;e-tron S Sportback
 Audi;e-tron Sportback
-Audi;NSU RO 80
 Audi;Q2
 Audi;Q2L
 Audi;Q3
 Audi;Q3 Sportback
 Audi;Q4 e-tron
-Audi;Q4 Sportback e-tron
 Audi;Q5
 Audi;Q5 Sportback
 Audi;Q7
 Audi;Q8
 Audi;Quattro
 Audi;R8
-Audi;R8 LMP
 Audi;RS 2
 Audi;RS 3
 Audi;RS 4
@@ -164,7 +119,6 @@ Audi;RS e-tron GT
 Audi;RS Q3
 Audi;RS Q3 Sportback
 Audi;RS Q8
-Audi;S1
 Audi;S2
 Audi;S3
 Audi;S4
@@ -172,7 +126,6 @@ Audi;S5
 Audi;S6
 Audi;S7
 Audi;S8
-Audi;SQ2
 Audi;SQ5
 Audi;SQ5 Sportback
 Audi;SQ7
@@ -180,37 +133,20 @@ Audi;SQ8
 Audi;TT
 Audi;TT RS
 Audi;TTS
-Audi;Typ R
 Audi;V8
 Aurus;Senat
-Austin;Allegro
-Austin;Ambassador
-Austin;FL2
 Austin;FX4
-Austin;Maestro
-Austin;Maxi
-Austin;Metro
 Austin;Mini
 Austin;Montego
-Austin;Princess
-Austin;Sprite
-Austin Healey;100
-Austin Healey;3000
 Autobianchi;A 112
 BAIC;A1
 BAIC;BJ2020
-BAIC;BJ2021
-BAIC;BJ2026
 BAIC;BJ212
 BAIC;EU260
 BAIC;EU5
-BAIC;EX5
-BAIC;Jeep 2500
 BAIC;Luba (XB624)
 Bajaj;Qute
 Baltijas Dzips;BD-1322
-Batmobile;1989
-Batmobile;2018
 Bentley;Arnage
 Bentley;Azure
 Bentley;Bentayga
@@ -220,18 +156,14 @@ Bentley;Continental Flying Spur
 Bentley;Continental GT
 Bentley;Eight
 Bentley;Flying Spur
-Bentley;Mark VI
 Bentley;Mulsanne
-Bentley;R Type
 Bentley;S
-Bentley;T-Series
 Bentley;Turbo R
 Bertone;Freeclimber
 Bilenkin;Vintage
 Bio auto;evA-4
 Bitter;CD
 Bitter;Type 3
-Blaval;FH-EQ
 BMW;02 (E10)
 BMW;1 серии
 BMW;1M
@@ -240,23 +172,11 @@ BMW;2 серии Active Tourer
 BMW;2 серии Gran Tourer
 BMW;2000 C/CS
 BMW;3 серии
-BMW;3/15
-BMW;315
-BMW;3200
-BMW;321
-BMW;326
-BMW;327
-BMW;340
 BMW;4 серии
 BMW;5 серии
-BMW;501
-BMW;502
 BMW;503
-BMW;507
 BMW;6 серии
-BMW;600
 BMW;7 серии
-BMW;700
 BMW;8 серии
 BMW;E3
 BMW;E9
@@ -265,7 +185,6 @@ BMW;i4
 BMW;i7
 BMW;i8
 BMW;iX
-BMW;iX1
 BMW;iX3
 BMW;M2
 BMW;M3
@@ -273,7 +192,6 @@ BMW;M4
 BMW;M5
 BMW;M6
 BMW;M8
-BMW;New Class
 BMW;X1
 BMW;X2
 BMW;X3
@@ -290,19 +208,12 @@ BMW;Z3
 BMW;Z3 M
 BMW;Z4
 BMW;Z4 M
-BMW;Z8
 Borgward;2000
 Borgward;Hansa 1100
-Brabus;7.3S
-Brabus;M V12
-Brabus;ML 63 Biturbo
-Brabus;SV12
-Brilliance;FRV (BS2)
 Brilliance;H230
 Brilliance;H530
 Brilliance;M1 (BS6)
 Brilliance;M2 (BS4)
-Brilliance;M3 (BC3)
 Brilliance;V3
 Brilliance;V5
 Bristol;Blenheim
@@ -310,11 +221,6 @@ Bristol;Blenheim Speedster
 Bristol;Fighter
 Bufori;Geneva
 Bufori;La Joya
-Bugatti;Chiron
-Bugatti;EB 110
-Bugatti;EB 112
-Bugatti;EB Veyron 16.4
-Bugatti;Type 55
 Buick;Cascada
 Buick;Century
 Buick;Electra
@@ -322,62 +228,29 @@ Buick;Enclave
 Buick;Encore
 Buick;Encore GX
 Buick;Envision
-Buick;Estate Wagon
 Buick;Excelle
-Buick;GL8
-Buick;GS
 Buick;LaCrosse
 Buick;LeSabre
-Buick;Limited
-Buick;Lucerne
 Buick;Park Avenue
-Buick;Rainer
-Buick;Reatta
 Buick;Regal
-Buick;Rendezvous
-Buick;Riviera
-Buick;Roadmaster
-Buick;Skyhawk
-Buick;Skylark
-Buick;Special
-Buick;Super
-Buick;Terraza
-Buick;Velite 6
-Buick;Verano
-Buick;Wildcat
 BYD;Dolphin
-BYD;E1
-BYD;e2
 BYD;E6
 BYD;F0
 BYD;F3
-BYD;F5
 BYD;F6
-BYD;F8 (S8)
 BYD;Flyer
-BYD;G3
-BYD;G6
 BYD;Han
-BYD;L3
-BYD;M6
 BYD;Qin
 BYD;S6
 BYD;Song EV
 BYD;Song Pro
 BYD;Tang
 BYD;Yuan
-Byvin;BD132J (CoCo)
-Byvin;BD326J (Moca)
-Cadillac;Allante
 Cadillac;ATS
-Cadillac;ATS-V
 Cadillac;BLS
 Cadillac;Brougham
 Cadillac;Catera
-Cadillac;CT4
-Cadillac;CT4-V
 Cadillac;CT5
-Cadillac;CT5-V
 Cadillac;CT6
 Cadillac;CTS
 Cadillac;CTS-V
@@ -387,27 +260,16 @@ Cadillac;Eldorado
 Cadillac;ELR
 Cadillac;Escalade
 Cadillac;Fleetwood
-Cadillac;LSE
-Cadillac;Lyriq
-Cadillac;Series 62
 Cadillac;Seville
-Cadillac;Sixty Special
 Cadillac;SRX
 Cadillac;STS
-Cadillac;XLR
 Cadillac;XT4
 Cadillac;XT5
 Cadillac;XT6
 Cadillac;XTS
 Callaway;C12
-Carbodies;FX4
 Caterham;21
-Caterham;CSR
 Caterham;Seven
-Chana;Benni
-Chana;SC6390
-Changan;Alsvin V7
-Changan;Auchan A600 EV
 Changan;Benni
 Changan;Benni EC/EV
 Changan;CM-8
@@ -415,20 +277,11 @@ Changan;CS35
 Changan;CS35PLUS
 Changan;CS55
 Changan;CS75
-Changan;CS95
-Changan;CX20
 Changan;Eado
 Changan;Raeton
 Changan;UNI-K
-Changan;Z-Shine
-ChangFeng;Flying
-ChangFeng;SUV (CS6)
-Changhe;Ideal
 Chery;Amulet (A15)
-Chery;Arrizo 3
-Chery;Arrizo 6
 Chery;Arrizo 7
-Chery;B13
 Chery;Bonus (A13)
 Chery;Bonus 3 (E3/A19)
 Chery;CrossEastar (B14)
@@ -455,10 +308,8 @@ Chery;Tiggo 8
 Chery;Tiggo 8 Pro
 Chery;Tiggo 8 Pro Max
 Chery;Very (A13)
-Chery;Windcloud (A11)
 Chevrolet;3000-Series
 Chevrolet;Alero
-Chevrolet;Apache
 Chevrolet;Astra
 Chevrolet;Astro
 Chevrolet;Avalanche
@@ -468,134 +319,75 @@ Chevrolet;Beretta
 Chevrolet;Blazer
 Chevrolet;Blazer K5
 Chevrolet;Bolt
-Chevrolet;Bolt EUV
-Chevrolet;C-10
-Chevrolet;C/K
 Chevrolet;Camaro
-Chevrolet;Caprice
 Chevrolet;Captiva
-Chevrolet;Captiva Sport
 Chevrolet;Cavalier
 Chevrolet;Celebrity
-Chevrolet;Celta
 Chevrolet;Chevelle
-Chevrolet;Chevette
-Chevrolet;Citation
 Chevrolet;Cobalt
 Chevrolet;Colorado
 Chevrolet;Corsa
-Chevrolet;Corsica
 Chevrolet;Corvair
 Chevrolet;Corvette
 Chevrolet;Cruze
 Chevrolet;Cruze (HR)
-Chevrolet;CSV CR8
-Chevrolet;Damas
 Chevrolet;Deluxe
 Chevrolet;El Camino
 Chevrolet;Epica
 Chevrolet;Equinox
 Chevrolet;Evanda
 Chevrolet;Express
-Chevrolet;Fleetmaster
 Chevrolet;HHR
 Chevrolet;Impala
-Chevrolet;Kalos
 Chevrolet;Lacetti
 Chevrolet;Lanos
 Chevrolet;Lumina
 Chevrolet;Lumina APV
-Chevrolet;LUV D-MAX
 Chevrolet;Malibu
-Chevrolet;Master
 Chevrolet;Matiz
 Chevrolet;Metro
 Chevrolet;Monte Carlo
-Chevrolet;Monza
 Chevrolet;MW
 Chevrolet;Nexia
 Chevrolet;Niva
 Chevrolet;Nova
-Chevrolet;Nubira
-Chevrolet;Omega
 Chevrolet;Orlando
 Chevrolet;Prizm
 Chevrolet;Rezzo
 Chevrolet;S-10 Pickup
-Chevrolet;Sail
-Chevrolet;Silverado
 Chevrolet;Sonic
 Chevrolet;Spark
-Chevrolet;Special DeLuxe
-Chevrolet;Spin
-Chevrolet;SS
 Chevrolet;SSR
 Chevrolet;Starcraft
 Chevrolet;Suburban
-Chevrolet;Tacuma
 Chevrolet;Tahoe
-Chevrolet;Tavera
 Chevrolet;Tracker
 Chevrolet;TrailBlazer
-Chevrolet;Trans Sport
-Chevrolet;Traverse
-Chevrolet;Trax
-Chevrolet;Uplander
-Chevrolet;Van
-Chevrolet;Vectra
-Chevrolet;Venture
-Chevrolet;Viva
-Chevrolet;Volt
-Chevrolet;Zafira
 Chrysler;180
 Chrysler;200
 Chrysler;300
 Chrysler;300 Letter Series
 Chrysler;300C
 Chrysler;300M
-Chrysler;Aspen
 Chrysler;Cirrus
 Chrysler;Concorde
 Chrysler;Cordoba
 Chrysler;Crossfire
-Chrysler;Daytona
-Chrysler;Dynasty
-Chrysler;ES
 Chrysler;Fifth Avenue
-Chrysler;Imperial
-Chrysler;Imperial Crown
 Chrysler;Intrepid
-Chrysler;LeBaron
-Chrysler;LHS
-Chrysler;Nassau
-Chrysler;Neon
 Chrysler;New Yorker
-Chrysler;Newport
 Chrysler;Pacifica
 Chrysler;Prowler
 Chrysler;PT Cruiser
 Chrysler;Saratoga
 Chrysler;Sebring
-Chrysler;Six
 Chrysler;Stratus
-Chrysler;TC by Maserati
 Chrysler;Town & Country
-Chrysler;Viper
 Chrysler;Vision
 Chrysler;Voyager
-Chrysler;Windsor
-Ciimo (DongFeng-Honda);M-NV
-Ciimo (DongFeng-Honda);X-NV
 Citroen;2 CV
-Citroen;AMI
 Citroen;AX
 Citroen;Berlingo
-Citroen;BX
-Citroen;C-Crosser
-Citroen;C-Elysee
-Citroen;C-Quatre
-Citroen;C-Triomphe
-Citroen;C-ZERO
 Citroen;C1
 Citroen;C2
 Citroen;C3
@@ -608,7 +400,6 @@ Citroen;C4 Picasso
 Citroen;C4 SpaceTourer
 Citroen;C5
 Citroen;C5 Aircross
-Citroen;C5 X
 Citroen;C6
 Citroen;C8
 Citroen;CX
@@ -616,8 +407,6 @@ Citroen;DS
 Citroen;DS3
 Citroen;DS4
 Citroen;DS5
-Citroen;Dyane
-Citroen;E-Mehari
 Citroen;Evasion
 Citroen;GS
 Citroen;Jumpy
@@ -626,7 +415,6 @@ Citroen;Nemo
 Citroen;Saxo
 Citroen;SM
 Citroen;SpaceTourer
-Citroen;Traction Avant
 Citroen;Visa
 Citroen;Xantia
 Citroen;XM
@@ -636,29 +424,17 @@ Citroen;ZX
 Cizeta;V16t
 Coggiola;T Rex
 Cord;L-29
-Cupra;Ateca
-Cupra;Born
-Cupra;Formentor
-Cupra;Leon
-Dacia;1300
 Dacia;1310
-Dacia;1410
-Dacia;Dokker
 Dacia;Duster
-Dacia;Jogger
 Dacia;Lodgy
 Dacia;Logan
 Dacia;Nova
-Dacia;Pick-Up
 Dacia;Sandero
 Dacia;Solenza
-Dacia;Spring
 Dacia;SuperNova
 Dadi;City Leading
 Dadi;Shuttle
 Dadi;Smoothing
-Daewoo;Alpheon
-Daewoo;Arcadia
 Daewoo;Chairman
 Daewoo;Damas
 Daewoo;Espero
@@ -666,7 +442,6 @@ Daewoo;Evanda
 Daewoo;G2X
 Daewoo;Gentra
 Daewoo;Kalos
-Daewoo;Korando
 Daewoo;Lacetti
 Daewoo;Lacetti Premiere
 Daewoo;Lanos
@@ -681,7 +456,6 @@ Daewoo;Nubira
 Daewoo;Prince
 Daewoo;Racer
 Daewoo;Rezzo
-Daewoo;Royale
 Daewoo;Sens
 Daewoo;Tacuma
 Daewoo;Tico
@@ -691,20 +465,14 @@ Daihatsu;Altis
 Daihatsu;Applause
 Daihatsu;Atrai
 Daihatsu;Be-go
-Daihatsu;Bee
 Daihatsu;Boon
-Daihatsu;Boon Luminas
 Daihatsu;Cast
-Daihatsu;Ceria
 Daihatsu;Charade
 Daihatsu;Charmant
 Daihatsu;Coo
 Daihatsu;Copen
 Daihatsu;Cuore
-Daihatsu;Delta Wagon
 Daihatsu;Esse
-Daihatsu;Extol
-Daihatsu;Fellow
 Daihatsu;Feroza
 Daihatsu;Gran Move
 Daihatsu;Hijet
@@ -713,77 +481,35 @@ Daihatsu;Leeza
 Daihatsu;Materia
 Daihatsu;MAX
 Daihatsu;Mebius
-Daihatsu;Midget
 Daihatsu;Mira
-Daihatsu;Mira Cocoa
 Daihatsu;Mira e:S
-Daihatsu;Mira Gino
 Daihatsu;Move
 Daihatsu;Move Canbus
 Daihatsu;Move Conte
-Daihatsu;Move Latte
 Daihatsu;Naked
 Daihatsu;Opti
 Daihatsu;Pyzar
-Daihatsu;Rocky
-Daihatsu;Rugger
 Daihatsu;Sirion
 Daihatsu;Sonica
 Daihatsu;Storia
 Daihatsu;Taft
 Daihatsu;Tanto
-Daihatsu;Tanto Exe
 Daihatsu;Terios
 Daihatsu;Thor
 Daihatsu;Trevis
 Daihatsu;Wake
 Daihatsu;Wildcat
-Daihatsu;Xenia
 Daihatsu;YRV
-Daimler;DS420
-Daimler;Sovereign (XJ6)
-Daimler;SP250
-Daimler;X300
-Daimler;X308
-Daimler;X350
-Daimler;XJ40
-Daimler;XJS
-Dallara;Stradale
-Datsun;240Z
-Datsun;280Z
-Datsun;280ZX
 Datsun;720
-Datsun;Bluebird
-Datsun;Cherry
-Datsun;GO
-Datsun;GO+
-Datsun;Laurel
 Datsun;mi-DO
 Datsun;on-DO
-Datsun;Stanza
 Datsun;Sunny
-Datsun;Urvan
 Datsun;Violet
 De Tomaso;Bigua
 De Tomaso;Guara
-De Tomaso;Longchamp
 De Tomaso;Mangusta
 De Tomaso;Pantera
 De Tomaso;Vallelunga
-Deco Rides;Zephyr
-Delage;D12
-Delage;D6
-DeLorean;DMC-12
-Derways;Antelope
-Derways;Aurora
-Derways;Cowboy
-Derways;Land Crown
-Derways;Plutus
-Derways;Saladin
-Derways;Shuttle
-DeSoto;Custom
-DeSoto;Firedome
-DeSoto;Fireflite
 DKW;3=6
 Dodge;600
 Dodge;Aries
@@ -793,10 +519,6 @@ Dodge;Caravan
 Dodge;Challenger
 Dodge;Charger
 Dodge;Charger Daytona
-Dodge;Colt
-Dodge;Custom Royal
-Dodge;D/W Series
-Dodge;D8
 Dodge;Dakota
 Dodge;Dart
 Dodge;Daytona
@@ -805,46 +527,28 @@ Dodge;Durango
 Dodge;Dynasty
 Dodge;Intrepid
 Dodge;Journey
-Dodge;Lancer
 Dodge;Magnum
-Dodge;Mayfair
-Dodge;Monaco
 Dodge;Neon
 Dodge;Nitro
-Dodge;Omni
-Dodge;Polara
-Dodge;Raider
 Dodge;RAM
 Dodge;RAM Van
-Dodge;Ramcharger
 Dodge;Shadow
 Dodge;Spirit
 Dodge;Stealth
 Dodge;Stratus
-Dodge;Super Bee
 Dodge;Viper
 Dodge;WC series
-DongFeng;370
 DongFeng;580
-DongFeng;A30
-DongFeng;A9
 DongFeng;AX7
 DongFeng;DF6
 DongFeng;E11K
 DongFeng;H30 Cross
 DongFeng;MPV
-DongFeng;Oting
 DongFeng;Rich
 DongFeng;S30
-DongFeng;T5L
 Doninvest;Assol
 Doninvest;Kondor
 Doninvest;Orion
-Donkervoort;D8
-Donkervoort;D8 Cosworth
-Donkervoort;D8 GT
-Donkervoort;D8 GTO
-Donkervoort;D8 Zetec
 DS;3
 DS;3 Crossback
 DS;4
@@ -867,10 +571,7 @@ EXEED;LX
 EXEED;TXL
 EXEED;VX
 Facel Vega;FV
-FAW;Bestune T55
 FAW;Bestune T77
-FAW;Bestune T99
-FAW;Besturn B30
 FAW;Besturn B50
 FAW;Besturn B70
 FAW;Besturn X40
@@ -881,64 +582,37 @@ FAW;Oley
 FAW;V2
 FAW;V5
 FAW;Vita
-Ferrari;250 GTO
-Ferrari;296
 Ferrari;328
 Ferrari;348
 Ferrari;360
-Ferrari;400
-Ferrari;412
 Ferrari;456
 Ferrari;458
 Ferrari;488
-Ferrari;512 BB
-Ferrari;512 M
-Ferrari;512 TR
-Ferrari;550
 Ferrari;575M
 Ferrari;599
 Ferrari;612
 Ferrari;812
 Ferrari;California
-Ferrari;Daytona SP3
-Ferrari;Dino 206 GT
-Ferrari;Dino 208/308 GT4
-Ferrari;Dino 246 GT
-Ferrari;Enzo
 Ferrari;F12berlinetta
 Ferrari;F355
-Ferrari;F40
 Ferrari;F430
-Ferrari;F50
 Ferrari;F8
 Ferrari;FF
-Ferrari;FXX K
 Ferrari;GTC4Lusso
-Ferrari;LaFerrari
 Ferrari;Mondial
-Ferrari;Monza SP
 Ferrari;Portofino
 Ferrari;Roma
 Ferrari;SF90 Stradale
 Ferrari;Testarossa
 Fiat;124
 Fiat;124 Spider
-Fiat;124 Sport Spider
 Fiat;125
 Fiat;126
 Fiat;127
-Fiat;128
-Fiat;130
 Fiat;131
-Fiat;132
-Fiat;2300
-Fiat;238
 Fiat;500
 Fiat;500L
 Fiat;500X
-Fiat;508
-Fiat;600
-Fiat;900T
 Fiat;Albea
 Fiat;Argenta
 Fiat;Barchetta
@@ -972,20 +646,15 @@ Fiat;Tempra
 Fiat;Tipo
 Fiat;Ulysse
 Fiat;Uno
-Fiat;X 1/9
 Fisker;Karma
-Flanker;F
 Ford;Aerostar
 Ford;Aspire
 Ford;B-MAX
 Ford;Bronco
-Ford;Bronco Sport
-Ford;Bronco-II
 Ford;C-MAX
 Ford;Capri
 Ford;Consul
 Ford;Contour
-Ford;Cortina
 Ford;Cougar
 Ford;Country Squire
 Ford;Crown Victoria
@@ -997,16 +666,13 @@ Ford;Edge
 Ford;Escape
 Ford;Escort
 Ford;Escort (North America)
-Ford;Everest
 Ford;Excursion
 Ford;Expedition
 Ford;Explorer
 Ford;Explorer Sport Trac
 Ford;F-150
-Ford;F-2
 Ford;Fairlane
 Ford;Fairmont
-Ford;Falcon
 Ford;Festiva
 Ford;Fiesta
 Ford;Fiesta ST
@@ -1016,26 +682,17 @@ Ford;Focus
 Ford;Focus RS
 Ford;Focus ST
 Ford;Freda
-Ford;Freestar
 Ford;Freestyle
 Ford;Fusion
 Ford;Fusion (North America)
 Ford;Galaxie
 Ford;Galaxy
-Ford;GPA
 Ford;Granada
-Ford;Granada (North America)
-Ford;GT
-Ford;GT40
-Ford;Ikon
 Ford;Ixion
 Ford;KA
 Ford;Kuga
 Ford;Laser
-Ford;LTD Country Squire
 Ford;LTD Crown Victoria
-Ford;M151
-Ford;Mainline
 Ford;Maverick
 Ford;Model A
 Ford;Model T
@@ -1046,7 +703,6 @@ Ford;Mustang Mach-E
 Ford;Orion
 Ford;Probe
 Ford;Puma
-Ford;Puma ST
 Ford;Ranchero
 Ford;Ranger
 Ford;Ranger (North America)
@@ -1056,7 +712,6 @@ Ford;Sierra
 Ford;Spectron
 Ford;Taunus
 Ford;Taurus
-Ford;Taurus X
 Ford;Telstar
 Ford;Tempo
 Ford;Territory
@@ -1068,28 +723,21 @@ Ford;Tourneo Custom
 Ford;Transit Connect
 Ford;V8
 Ford;Windstar
-Ford;Zephyr
-Foton;Midi
 Foton;Sauvana
 Foton;Tunland
 FSO;125p
 FSO;126p
 FSO;127p
 FSO;132p
-FSO;Lanos
 FSO;Polonez
-FSO;Warszawa
 Fuqi;6500 (Land King)
-GAC;GE3
 GAC;GN8
 GAC;GS5
 GAC;GS8
 GAC Aion;S
-GAC Aion;S Plus
 GAC Aion;Y
 Geely;Atlas
 Geely;Atlas Pro
-Geely;Beauty Leopard
 Geely;CK (Otaka)
 Geely;Coolray
 Geely;Emgrand 7
@@ -1102,16 +750,12 @@ Geely;GC6
 Geely;GC9
 Geely;Geometry C
 Geely;GS
-Geely;Haoqing
 Geely;LC (Panda)
 Geely;LC (Panda) Cross
 Geely;MK
 Geely;MK Cross
-Geely;MR
 Geely;Preface
-Geely;SC7
 Geely;Tugella
-Geely;TX4
 Genesis;G70
 Genesis;G80
 Genesis;G90
@@ -1120,12 +764,9 @@ Genesis;GV70
 Genesis;GV80
 Geo;Metro
 Geo;Prizm
-Geo;Spectrum
 Geo;Storm
 Geo;Tracker
-GMC;100
 GMC;Acadia
-GMC;Canyon
 GMC;Envoy
 GMC;Hummer EV
 GMC;Jimmy
@@ -1134,13 +775,10 @@ GMC;Savana
 GMC;Sierra
 GMC;Sonoma
 GMC;Suburban
-GMC;Syclone
 GMC;Terrain
 GMC;Typhoon
 GMC;Vandura
 GMC;Yukon
-Goggomobil;T
-Goggomobil;TS
 Gonow;Troy
 Gordon;Roadster
 GP;Madison
@@ -1152,37 +790,24 @@ Great Wall;Hover
 Great Wall;Hover H3
 Great Wall;Hover H5
 Great Wall;Hover H6
-Great Wall;Hover M1 (Peri 4x4)
 Great Wall;Hover M2
 Great Wall;Hover M4
-Great Wall;Hover Pi
 Great Wall;Pegasus
 Great Wall;Peri
 Great Wall;Poer
 Great Wall;Safe
 Great Wall;Sailor
 Great Wall;Sing RUV
-Great Wall;Socool
-Great Wall;Voleex C10 (Phenom)
 Great Wall;Voleex C30
 Great Wall;Wingle
 Great Wall;Wingle 7
 Hafei;Brio
 Hafei;Princip
-Hafei;Saibao
-Hafei;Sigma
 Hafei;Simbo
-Haima;2
 Haima;3
 Haima;7
-Haima;8S
-Haima;Family
-Haima;Family F7
-Haima;Freema
 Haima;M3
-Haima;S5
 Hanomag;Rekord
-Hanomag;Typ 13
 Haval;Dargo
 Haval;F7
 Haval;F7x
@@ -1193,31 +818,11 @@ Haval;H6 Coupe
 Haval;H8
 Haval;H9
 Haval;Jolion
-Hawtai;B21
 Hawtai;Boliger
 Hawtai;Laville
-Heinkel;Typ 154
-Hennessey;Venom F5
-Hennessey;Venom GT
 Hindustan;Ambassador
 Hindustan;Contessa
 Hispano-Suiza;K6
-Holden;Apollo
-Holden;Astra
-Holden;Barina
-Holden;Calais
-Holden;Caprice
-Holden;Commodore
-Holden;Cruze
-Holden;Frontera
-Holden;Jackaroo
-Holden;Monaro
-Holden;Rodeo
-Holden;Statesman
-Holden;UTE
-Holden;Vectra
-Holden;Zafira
-Honda;145
 Honda;Accord
 Honda;Acty
 Honda;Airwave
@@ -1226,17 +831,12 @@ Honda;Ascot Innova
 Honda;Avancier
 Honda;Ballade
 Honda;Beat
-Honda;Brio
 Honda;Capa
 Honda;City
 Honda;Civic
 Honda;Civic Ferio
-Honda;Civic Type R
 Honda;Clarity
 Honda;Concerto
-Honda;CR-V
-Honda;CR-X
-Honda;CR-Z
 Honda;Crossroad
 Honda;Crosstour
 Honda;Domani
@@ -1250,7 +850,6 @@ Honda;Fit Shuttle
 Honda;FR-V
 Honda;Freed
 Honda;Grace
-Honda;Horizon
 Honda;HR-V
 Honda;Insight
 Honda;Inspire
@@ -1258,7 +857,6 @@ Honda;Integra
 Honda;Integra SJ
 Honda;Jade
 Honda;Jazz
-Honda;Lagreat
 Honda;Legend
 Honda;Life
 Honda;Logo
@@ -1266,10 +864,8 @@ Honda;MDX
 Honda;Mobilio
 Honda;Mobilio Spike
 Honda;N-BOX
-Honda;N-BOX Slash
 Honda;N-One
 Honda;N-WGN
-Honda;N360
 Honda;NSX
 Honda;Odyssey
 Honda;Odyssey (North America)
@@ -1278,13 +874,10 @@ Honda;Partner
 Honda;Passport
 Honda;Pilot
 Honda;Prelude
-Honda;Quint
 Honda;Rafaga
 Honda;Ridgeline
 Honda;S-MX
 Honda;S2000
-Honda;S500
-Honda;S600
 Honda;S660
 Honda;Saber
 Honda;Shuttle
@@ -1302,38 +895,27 @@ Honda;Zest
 Hongqi;E-HS9
 Horch;830
 Horch;853
-Hozon;Neta U
-HSV;Maloo
 HuangHai;Antelope
 HuangHai;Landscape
-HuangHai;Plutus
 Hudson;Deluxe Eight
-Hudson;Super Six
 Hummer;H1
 Hummer;H2
 Hummer;H3
 Hyundai;Accent
-Hyundai;Aslan
 Hyundai;Atos
 Hyundai;Avante
-Hyundai;Avante N
 Hyundai;Azera
-Hyundai;Bayon
 Hyundai;Centennial
 Hyundai;Click
 Hyundai;Coupe
 Hyundai;Creta
 Hyundai;Dynasty
 Hyundai;Elantra
-Hyundai;Elantra N
 Hyundai;Encino
-Hyundai;Entourage
-Hyundai;EON
 Hyundai;Equus
 Hyundai;Excel
 Hyundai;Galloper
 Hyundai;Genesis
-Hyundai;Genesis Coupe
 Hyundai;Getz
 Hyundai;Grace
 Hyundai;Grand Starex
@@ -1342,7 +924,6 @@ Hyundai;H-1
 Hyundai;H200
 Hyundai;i10
 Hyundai;i20
-Hyundai;i20 N
 Hyundai;i30
 Hyundai;i30 N
 Hyundai;i40
@@ -1359,7 +940,6 @@ Hyundai;Matrix
 Hyundai;Maxcruz
 Hyundai;Palisade
 Hyundai;Pony
-Hyundai;Santa Cruz
 Hyundai;Santa Fe
 Hyundai;Santamo
 Hyundai;Scoupe
@@ -1374,20 +954,10 @@ Hyundai;Trajet
 Hyundai;Tucson
 Hyundai;Tuscani
 Hyundai;Veloster
-Hyundai;Venue
 Hyundai;Veracruz
 Hyundai;Verna
 Hyundai;XG
-Infiniti;EX
-Infiniti;FX
-Infiniti;G
-Infiniti;I
-Infiniti;J
 Infiniti;JX
-Infiniti;M
-Infiniti;Q
-Infiniti;Q30
-Infiniti;Q40
 Infiniti;Q50
 Infiniti;Q60
 Infiniti;Q70
@@ -1399,64 +969,36 @@ Infiniti;QX56
 Infiniti;QX60
 Infiniti;QX70
 Infiniti;QX80
-Innocenti;Elba
-Innocenti;Mille
-Innocenti;Mini
-International;Travelall
 Invicta;S1
-Iran Khodro;Dena
-Iran Khodro;Paykan
-Iran Khodro;Runna
 Iran Khodro;Sahra
 Iran Khodro;Samand
-Iran Khodro;Sarir
 Iran Khodro;Soren
-Isdera;Commendatore 112i
 Isdera;Imperator 108i
 Isdera;Spyder
-Isuzu;117
 Isuzu;Amigo
-Isuzu;Ascender
 Isuzu;Aska
 Isuzu;Axiom
-Isuzu;Bellett
 Isuzu;Bighorn
 Isuzu;D-Max
 Isuzu;Fargo
-Isuzu;Fargo Filly
-Isuzu;Florian
 Isuzu;Gemini
-Isuzu;Hombre
 Isuzu;Impulse
-Isuzu;KB
 Isuzu;Midi
 Isuzu;MU
-Isuzu;MU-7
 Isuzu;MU-X
 Isuzu;Oasis
 Isuzu;Piazza
 Isuzu;Rodeo
-Isuzu;Stylus
-Isuzu;TF (Pickup)
 Isuzu;Trooper
 Isuzu;VehiCross
 Isuzu;Wizard
 IVECO;Massif
-JAC;iEV7L
 JAC;iEV7S
 JAC;iEVS4
 JAC;J2 (Yueyue)
-JAC;J3 (Tongyue,Tojoy)
-JAC;J4 (Heyue A30)
 JAC;J5 (Heyue)
-JAC;J6 (Heyue RS)
 JAC;J7
-JAC;J7 (Binyue)
-JAC;M1 (Refine)
-JAC;M5
-JAC;S1 (Rein)
 JAC;S3
-JAC;S5 (Eagle)
 JAC;S7
 JAC;T6
 Jaguar;E-Pace
@@ -1472,20 +1014,15 @@ Jaguar;XE
 Jaguar;XF
 Jaguar;XFR
 Jaguar;XJ
-Jaguar;XJ220
 Jaguar;XJR
 Jaguar;XJS
 Jaguar;XK
 Jaguar;XKR
 Jeep;Cherokee
 Jeep;CJ
-Jeep;Comanche
 Jeep;Commander
 Jeep;Compass
-Jeep;Gladiator
 Jeep;Grand Cherokee
-Jeep;Liberty (North America)
-Jeep;Liberty (Patriot)
 Jeep;Renegade
 Jeep;Wagoneer
 Jeep;Wrangler
@@ -1494,18 +1031,15 @@ Jensen;S-V8
 Jinbei;Haise
 JMC;Baodian
 Kia;Avella
-Kia;Borrego
 Kia;Cadenza
 Kia;Capital
 Kia;Carens
 Kia;Carnival
-Kia;Carstar
 Kia;Ceed
 Kia;Ceed GT
 Kia;Cerato
 Kia;Clarus
 Kia;Concord
-Kia;Elan
 Kia;Enterprise
 Kia;EV6
 Kia;Forte
@@ -1529,7 +1063,6 @@ Kia;Potentia
 Kia;Pregio
 Kia;Pride
 Kia;Proceed
-Kia;Quanlima
 Kia;Quoris
 Kia;Ray
 Kia;Retona
@@ -1540,11 +1073,9 @@ Kia;Sephia
 Kia;Shuma
 Kia;Sorento
 Kia;Soul
-Kia;Soul EV
 Kia;Spectra
 Kia;Sportage
 Kia;Stinger
-Kia;Stonic
 Kia;Telluride
 Kia;Towner
 Kia;Venga
@@ -1555,7 +1086,6 @@ Koenigsegg;Agera
 Koenigsegg;CC8S
 Koenigsegg;CCR
 Koenigsegg;CCX
-Koenigsegg;Jesco
 Koenigsegg;One:1
 Koenigsegg;Regera
 KTM AG;X-Bow
@@ -1573,14 +1103,9 @@ LADA (ВАЗ);21099
 LADA (ВАЗ);2110
 LADA (ВАЗ);2111
 LADA (ВАЗ);2112
-LADA (ВАЗ);2113
-LADA (ВАЗ);2114
-LADA (ВАЗ);2115
 LADA (ВАЗ);2120 Надежда
-LADA (ВАЗ);2121 (4x4)
 LADA (ВАЗ);2123
 LADA (ВАЗ);2129
-LADA (ВАЗ);2131 (4x4)
 LADA (ВАЗ);2328
 LADA (ВАЗ);2329
 LADA (ВАЗ);EL Lada
@@ -1593,55 +1118,22 @@ LADA (ВАЗ);Priora
 LADA (ВАЗ);Revolution
 LADA (ВАЗ);Vesta
 LADA (ВАЗ);XRAY
-Lamborghini;350/400 GT
 Lamborghini;Aventador
-Lamborghini;Centenario
-Lamborghini;Countach
-Lamborghini;Countach LPI 800-4
 Lamborghini;Diablo
-Lamborghini;Egoista
-Lamborghini;Espada
 Lamborghini;Gallardo
 Lamborghini;Huracán
-Lamborghini;Islero
-Lamborghini;Jalpa
-Lamborghini;Jarama
-Lamborghini;LM001
-Lamborghini;LM002
-Lamborghini;Miura
 Lamborghini;Murcielago
-Lamborghini;Reventon
-Lamborghini;Sesto Elemento
-Lamborghini;Silhouette
-Lamborghini;Sián
-Lamborghini;Urraco
 Lamborghini;Urus
-Lamborghini;Veneno
-Lancia;A 112
-Lancia;Appia
-Lancia;Aurelia
-Lancia;Beta
 Lancia;Dedra
 Lancia;Delta
-Lancia;Flaminia
-Lancia;Flavia
-Lancia;Fulvia
-Lancia;Gamma
-Lancia;Hyena
 Lancia;Kappa
-Lancia;Lambda
 Lancia;Lybra
-Lancia;Monte Carlo
 Lancia;Musa
 Lancia;Phedra
 Lancia;Prisma
-Lancia;Rally 037
-Lancia;Stratos
 Lancia;Thema
 Lancia;Thesis
 Lancia;Trevi
-Lancia;Voyager
-Lancia;Y10
 Lancia;Ypsilon
 Lancia;Zeta
 Land Rover;Defender
@@ -1652,15 +1144,8 @@ Land Rover;Range Rover
 Land Rover;Range Rover Evoque
 Land Rover;Range Rover Sport
 Land Rover;Range Rover Velar
-Land Rover;Series I
-Land Rover;Series II
 Land Rover;Series III
-Landwind;Fashion (CV9)
-Landwind;Forward
-Landwind;X5
 Landwind;X6
-Landwind;X7
-Landwind;Х9
 Lexus;CT
 Lexus;ES
 Lexus;GS
@@ -1678,30 +1163,21 @@ Lexus;NX
 Lexus;RC
 Lexus;RC F
 Lexus;RX
-Lexus;RZ
 Lexus;SC
 Lexus;UX
-Liebao Motor;Leopard
-Lifan;650 EV
 Lifan;Breez (520)
 Lifan;Cebrium (720)
 Lifan;Celliya (530)
-Lifan;Murman (820)
 Lifan;Myway
-Lifan;Smily
 Lifan;Solano
 Lifan;X50
 Lifan;X60
 Lifan;X70
 Ligier;JS 51
 Lincoln;Aviator
-Lincoln;Blackwood
-Lincoln;Capri
 Lincoln;Continental
 Lincoln;Corsair
 Lincoln;LS
-Lincoln;Mark III
-Lincoln;Mark IV
 Lincoln;Mark LT
 Lincoln;Mark VII
 Lincoln;Mark VIII
@@ -1712,52 +1188,16 @@ Lincoln;MKX
 Lincoln;MKZ
 Lincoln;Nautilus
 Lincoln;Navigator
-Lincoln;Premiere
-Lincoln;Town Car
-Lincoln;Versailles
 Lincoln;Zephyr
 LiXiang;One
-Logem;EC30
-Lotus;3-Eleven
-Lotus;340R
-Lotus;Eclat
-Lotus;Elan
-Lotus;Eletre
 Lotus;Elise
-Lotus;Elite
-Lotus;Emira
 Lotus;Esprit
-Lotus;Europa
-Lotus;Europa S
 Lotus;Evora
-Lotus;Excel
 Lotus;Exige
-LTI;TX
-Lucid;Air
-Luxgen;Luxgen5
 Luxgen;Luxgen7 MPV
 Luxgen;Luxgen7 SUV
-Luxgen;U6 Turbo
 Luxgen;U7 Turbo
-Mahindra;Armada
-Mahindra;Bolero
-Mahindra;CJ-3
-Mahindra;CL
-Mahindra;Commander
 Mahindra;Marshal
-Mahindra;MM
-Mahindra;NC 640 DP
-Mahindra;Scorpio
-Mahindra;Verito
-Mahindra;Voyager
-Mahindra;Xylo
-Marcos;GTS
-Marcos;LM 400
-Marcos;LM 500
-Marcos;Mantis
-Marcos;Marcasite
-Marlin;5EXi
-Marlin;Sportster
 Marussia;B1
 Marussia;B2
 Maruti;1000
@@ -1770,33 +1210,16 @@ Maruti;Omni
 Maruti;Versa
 Maruti;Wagon R
 Maruti;Zen
-Maserati;228
 Maserati;3200 GT
-Maserati;420
 Maserati;4200 GT
-Maserati;Barchetta Stradale
 Maserati;Biturbo
-Maserati;Bora
-Maserati;Chubasco
 Maserati;Ghibli
 Maserati;GranTurismo
-Maserati;Grecale
-Maserati;Indy
-Maserati;Karif
-Maserati;Khamsin
-Maserati;Kyalami
 Maserati;Levante
-Maserati;MC12
-Maserati;MC20
-Maserati;Merak
-Maserati;Mexico
 Maserati;Quattroporte
-Maserati;Royale
-Maserati;Shamal
 Matra;Murena
 Maybach;57
 Maybach;62
-Maybach;Exelero
 Mazda;1000
 Mazda;121
 Mazda;1300
@@ -1813,12 +1236,10 @@ Mazda;818
 Mazda;929
 Mazda;Atenza
 Mazda;Autozam AZ-3
-Mazda;Autozam Clef
 Mazda;Axela
 Mazda;AZ-1
 Mazda;AZ-Offroad
 Mazda;AZ-Wagon
-Mazda;B-series
 Mazda;Biante
 Mazda;Bongo
 Mazda;Bongo Friendee
@@ -1883,7 +1304,6 @@ McLaren;600LT
 McLaren;650S
 McLaren;675LT
 McLaren;720S
-McLaren;765LT
 McLaren;Artura
 McLaren;F1
 McLaren;GT
@@ -1991,12 +1411,8 @@ Mercedes-Benz;W191
 Mercedes-Benz;W21
 Mercedes-Benz;W29
 Mercedes-Benz;X-Класс
-Mercury;Capri
-Mercury;Colony Park
 Mercury;Cougar
-Mercury;Eight
 Mercury;Grand Marquis
-Mercury;Marauder
 Mercury;Mariner
 Mercury;Marquis
 Mercury;Milan
@@ -2008,29 +1424,11 @@ Mercury;Sable
 Mercury;Topaz
 Mercury;Tracer
 Mercury;Villager
-Messerschmitt;KR200
-Metrocab;Metrocab I
-Metrocab;Metrocab II (TTT)
 MG;3
 MG;350
-MG;5
 MG;550
-MG;6
-MG;750
 MG;F
-MG;GS
-MG;Maestro
-MG;Metro
-MG;MGA
-MG;MGB
-MG;Midget
-MG;Montego
-MG;RV8
-MG;TD Midget
-MG;TF
-MG;Xpower SV
 MG;ZR
-MG;ZS
 MG;ZT
 Microcar;F8C
 Microcar;M.Go
@@ -2038,39 +1436,28 @@ Microcar;M8
 Microcar;MC
 Microcar;Virgo
 Minelli;TF 1800
-MINI;Cabrio
+MINI;Cooper
 MINI;Clubman
 MINI;Countryman
-MINI;Coupe
-MINI;Hatch
-MINI;Paceman
-MINI;Roadster
 Mitsubishi;3000 GT
-Mitsubishi;500
 Mitsubishi;Airtrek
 Mitsubishi;Aspire
 Mitsubishi;ASX
-Mitsubishi;Attrage
-Mitsubishi;Bravo
 Mitsubishi;Carisma
 Mitsubishi;Celeste
 Mitsubishi;Challenger
 Mitsubishi;Chariot
 Mitsubishi;Colt
-Mitsubishi;Cordia
 Mitsubishi;Debonair
 Mitsubishi;Delica
 Mitsubishi;Delica D:2
 Mitsubishi;Delica D:3
 Mitsubishi;Delica D:5
 Mitsubishi;Diamante
-Mitsubishi;Dignity
 Mitsubishi;Dingo
 Mitsubishi;Dion
 Mitsubishi;Eclipse
 Mitsubishi;Eclipse Cross
-Mitsubishi;eK Active
-Mitsubishi;eK Classic
 Mitsubishi;eK Custom
 Mitsubishi;eK Space
 Mitsubishi;eK Sport
@@ -2078,10 +1465,8 @@ Mitsubishi;eK Wagon
 Mitsubishi;Emeraude
 Mitsubishi;Endeavor
 Mitsubishi;Eterna
-Mitsubishi;Freeca
 Mitsubishi;FTO
 Mitsubishi;Galant
-Mitsubishi;Galant Fortis
 Mitsubishi;Grandis
 Mitsubishi;GTO
 Mitsubishi;i
@@ -2108,12 +1493,8 @@ Mitsubishi;Pajero Junior
 Mitsubishi;Pajero Mini
 Mitsubishi;Pajero Pinin
 Mitsubishi;Pajero Sport
-Mitsubishi;Pistachio
-Mitsubishi;Proudia
-Mitsubishi;Raider
 Mitsubishi;RVR
 Mitsubishi;Sapporo
-Mitsubishi;Savrin
 Mitsubishi;Sigma
 Mitsubishi;Space Gear
 Mitsubishi;Space Runner
@@ -2127,30 +1508,9 @@ Mitsubishi;Tredia
 Mitsubishi;Triton
 Mitsubishi;Xpander
 Mitsuoka;Galue
-Mitsuoka;Galue 204
-Mitsuoka;Himiko
 Mitsuoka;Le-Seyde
-Mitsuoka;Like
-Mitsuoka;MC-1
-Mitsuoka;Nouera
-Mitsuoka;Orochi
-Mitsuoka;Ray
-Mitsuoka;Rock Star
-Mitsuoka;Ryoga
-Mitsuoka;Ryugi
-Mitsuoka;Viewt
-Mitsuoka;Yuga
-Mitsuoka;Zero 1
-Morgan;3 Wheeler
-Morgan;4 Seater
-Morgan;4/4
-Morgan;Aero 8
-Morgan;Aero Coupe
-Morgan;Aero SuperSports
-Morgan;AeroMax
+Morgan;Aero
 Morgan;Plus 4
-Morgan;Plus 8
-Morgan;Roadster
 Morris;Eight
 Morris;Marina
 Nash;Ambassador
@@ -2171,16 +1531,13 @@ Nissan;Almera
 Nissan;Almera Classic
 Nissan;Almera Tino
 Nissan;Altima
-Nissan;Ariya
 Nissan;Armada
 Nissan;Auster
 Nissan;Avenir
 Nissan;Bassara
 Nissan;BE-1
 Nissan;Bluebird
-Nissan;Bluebird Maxima
 Nissan;Bluebird Sylphy
-Nissan;Caravan
 Nissan;Cedric
 Nissan;Cefiro
 Nissan;Cherry
@@ -2193,7 +1550,6 @@ Nissan;Dayz
 Nissan;Dayz Roox
 Nissan;Dualis
 Nissan;Elgrand
-Nissan;Exa
 Nissan;Expert
 Nissan;Fairlady Z
 Nissan;Figaro
@@ -2201,9 +1557,7 @@ Nissan;Fuga
 Nissan;Gloria
 Nissan;GT-R
 Nissan;Homy
-Nissan;Hypermini
 Nissan;Juke
-Nissan;Juke Nismo
 Nissan;Kicks
 Nissan;Kix
 Nissan;Lafesta
@@ -2213,9 +1567,7 @@ Nissan;Latio
 Nissan;Laurel
 Nissan;Leaf
 Nissan;Leopard
-Nissan;Liberta Villa
 Nissan;Liberty
-Nissan;Livina
 Nissan;Lucino
 Nissan;March
 Nissan;Maxima
@@ -2223,7 +1575,7 @@ Nissan;Micra
 Nissan;Mistral
 Nissan;Moco
 Nissan;Murano
-Nissan;Navara (Frontier)
+Nissan;Navara
 Nissan;Note
 Nissan;NP300
 Nissan;NV100 Clipper
@@ -2232,7 +1584,6 @@ Nissan;NV300
 Nissan;NV350 Caravan
 Nissan;NX Coupe
 Nissan;Otti
-Nissan;Pao
 Nissan;Pathfinder
 Nissan;Patrol
 Nissan;Pino
@@ -2250,20 +1601,16 @@ Nissan;Quest
 Nissan;R'nessa
 Nissan;Rasheen
 Nissan;Rogue
-Nissan;Rogue Sport
 Nissan;Roox
 Nissan;Safari
 Nissan;Sentra
 Nissan;Serena
 Nissan;Silvia
 Nissan;Skyline
-Nissan;Skyline Crossover
 Nissan;Stagea
 Nissan;Stanza
 Nissan;Sunny
-Nissan;Sylphy Zero Emission
 Nissan;Teana
-Nissan;Terra
 Nissan;Terrano
 Nissan;Terrano Regulus
 Nissan;Tiida
@@ -2275,7 +1622,6 @@ Nissan;Versa
 Nissan;Wingroad
 Nissan;X-Trail
 Nissan;Xterra
-Nissan;Z
 Noble;M12 GTO
 Noble;M15
 Noble;M600
@@ -2284,20 +1630,12 @@ Oldsmobile;Alero
 Oldsmobile;Aurora
 Oldsmobile;Bravada
 Oldsmobile;Cutlass
-Oldsmobile;Cutlass Calais
 Oldsmobile;Cutlass Ciera
 Oldsmobile;Cutlass Supreme
 Oldsmobile;Eighty-Eight
-Oldsmobile;Firenza
-Oldsmobile;Intrigue
-Oldsmobile;Ninety-Eight
 Oldsmobile;Omega
-Oldsmobile;Series 60
-Oldsmobile;Series 70
 Oldsmobile;Silhouette
-Oldsmobile;Starfire
 Oldsmobile;Toronado
-Oldsmobile;Vista Cruiser
 Opel;Adam
 Opel;Admiral
 Opel;Agila
@@ -2308,12 +1646,11 @@ Opel;Astra
 Opel;Astra OPC
 Opel;Calibra
 Opel;Campo
-Opel;Cascada
 Opel;Combo
 Opel;Commodore
 Opel;Corsa
 Opel;Corsa OPC
-Opel;Crossland X
+Opel;Crossland
 Opel;Diplomat
 Opel;Frontera
 Opel;Grandland X
@@ -2336,8 +1673,7 @@ Opel;Rekord
 Opel;Senator
 Opel;Signum
 Opel;Sintra
-Opel;Speedster
-Opel;Super Six
+Opel;Super 6
 Opel;Tigra
 Opel;Vectra
 Opel;Vectra OPC
@@ -2357,43 +1693,25 @@ Pagani;Huayra
 Pagani;Zonda
 Panoz;Esperante
 Panoz;Roadster
-Perodua;Alza
-Perodua;Kancil
-Perodua;Kelisa
-Perodua;Kembara
-Perodua;Kenari
-Perodua;MyVi
-Perodua;Nautica
-Perodua;Viva
 Peugeot;1007
 Peugeot;104
 Peugeot;106
 Peugeot;107
-Peugeot;108
 Peugeot;2008
-Peugeot;201
-Peugeot;202
 Peugeot;203
-Peugeot;204
 Peugeot;205
-Peugeot;205 GTi
 Peugeot;206
 Peugeot;207
 Peugeot;208
-Peugeot;208 GTi
 Peugeot;3008
 Peugeot;301
-Peugeot;304
 Peugeot;305
 Peugeot;306
 Peugeot;307
 Peugeot;308
-Peugeot;308 GTi
 Peugeot;309
 Peugeot;4007
 Peugeot;4008
-Peugeot;402
-Peugeot;403
 Peugeot;404
 Peugeot;405
 Peugeot;406
@@ -2403,69 +1721,47 @@ Peugeot;5008
 Peugeot;504
 Peugeot;505
 Peugeot;508
-Peugeot;604
 Peugeot;605
 Peugeot;607
 Peugeot;806
 Peugeot;807
 Peugeot;Bipper
 Peugeot;Expert
-Peugeot;iOn
 Peugeot;Partner
 Peugeot;RCZ
-Peugeot;Rifter
 Peugeot;Traveller
 PGO;Cevennes
 PGO;Hemera
 PGO;Speedster II
 Piaggio;Porter
-Pierce-Arrow;Twelve
 Plymouth;Acclaim
-Plymouth;Barracuda
 Plymouth;Breeze
 Plymouth;Caravelle
 Plymouth;Fury
-Plymouth;Horizon
 Plymouth;Laser
 Plymouth;Neon
 Plymouth;Prowler
 Plymouth;Reliant
-Plymouth;Road Runner
-Plymouth;Satellite
 Plymouth;Sundance
-Plymouth;Turismo
 Plymouth;Valiant
-Plymouth;Volare
 Plymouth;Voyager
-Polestar;1
-Polestar;2
 Pontiac;6000
 Pontiac;Aztek
 Pontiac;Bonneville
 Pontiac;Catalina
 Pontiac;Fiero
 Pontiac;Firebird
-Pontiac;G4
-Pontiac;G5
 Pontiac;G6
-Pontiac;G8
 Pontiac;Grand AM
 Pontiac;Grand Prix
 Pontiac;GTO
 Pontiac;Laurentian
-Pontiac;LeMans
 Pontiac;Montana
-Pontiac;Parisienne
-Pontiac;Phoenix
 Pontiac;Solstice
 Pontiac;Sunbird
 Pontiac;Sunfire
-Pontiac;Tempest
-Pontiac;Torpedo
 Pontiac;Torrent
 Pontiac;Trans Sport
-Pontiac;Vibe
-Pontiac;Wave
 Porsche;356
 Porsche;718 Spyder
 Porsche;911
@@ -2490,24 +1786,10 @@ Porsche;Panamera
 Porsche;Taycan
 Premier;118NE
 Premier;Padmini
-Proton;Arena
-Proton;Exora
-Proton;Gen-2
-Proton;Inspira
-Proton;Iriz
-Proton;Juara
-Proton;Perdana
 Proton;Persona
-Proton;Preve
 Proton;Putra
-Proton;Saga
 Proton;Satria
-Proton;Savvy
-Proton;Tiara
 Proton;Waja
-Proton;Wira (400 Series)
-Proton;X50
-Proton;X70
 PUCH;G-modell
 PUCH;Pinzgauer
 Puma;GTB
@@ -2516,7 +1798,6 @@ Qoros;3
 Qoros;5
 Qvale;Mangusta
 RAM;1500
-RAM;ProMaster City
 Ravon;Gentra
 Ravon;Matiz
 Ravon;Nexia R3
@@ -2600,11 +1881,6 @@ Rezvani;Beast
 Rezvani;Tank
 Rimac;C Two
 Rimac;Concept_One
-Rimac;Nevera
-Rinspeed;Chopster
-Rivian;R1T
-Roewe;E50
-Roewe;Ei5
 Rolls-Royce;20/25
 Rolls-Royce;Camargue
 Rolls-Royce;Corniche
@@ -2699,13 +1975,6 @@ SEAT;Mii
 SEAT;Ronda
 SEAT;Tarraco
 SEAT;Toledo
-Shanghai Maple;C31
-Shanghai Maple;C32
-Shanghai Maple;C51
-Shanghai Maple;C52
-Shanghai Maple;C61
-Shanghai Maple;C81
-ShuangHuan;Noble
 ShuangHuan;Sceo
 Simca;1300/1500
 Simca;1307
@@ -2737,8 +2006,6 @@ Skywell;ET5
 Smart;Forfour
 Smart;Fortwo
 Smart;Roadster
-Soueast;Lioncel
-Spectre;R42
 Spyker;C12
 Spyker;C8
 SsangYong;Actyon
@@ -2848,29 +2115,12 @@ Suzuki;Wagon R+
 Suzuki;X-90
 Suzuki;Xbee
 Suzuki;XL7
-Talbot;1510
-Talbot;Avenger
 Talbot;Horizon
-Talbot;Rancho
-Talbot;Samba
-Talbot;Solara
-Talbot;Tagora
-TATA;Aria
-TATA;Estate
 TATA;Indica
 TATA;Indigo
-TATA;Nano
-TATA;Safari
-TATA;Sierra
-TATA;Sumo
-TATA;Sumo Grande
 TATA;Telcoline
 TATA;Xenon
 Tatra;57
-Tatra;77
-Tatra;80
-Tatra;87
-Tatra;T600
 Tatra;T603
 Tatra;T613
 Tatra;T700
@@ -2883,13 +2133,7 @@ Tesla;Model Y
 Tesla;Roadster
 Think;City
 Tianma;Century
-Tianma;Dragon
 Tianye;Admiral
-Tofas;Kartal
-Tofas;Murat 124
-Tofas;Murat 131
-Tofas;Sahin
-Tofas;Serce
 Toyota;2000GT
 Toyota;4Runner
 Toyota;Allex
@@ -3059,19 +2303,10 @@ Toyota;Wish
 Toyota;Yaris
 Toyota;Yaris Cross
 Toyota;Yaris Verso
-Trabant;1.1
-Trabant;600
 Trabant;P 601
-Trabant;P50
 Tramontana;Tramontana
-Triumph;Acclaim
 Triumph;Spitfire
-Triumph;Stag
 Triumph;TR3
-Triumph;TR4
-Triumph;TR6
-Triumph;TR7
-Triumph;TR8
 TVR;280
 TVR;350
 TVR;390
@@ -3090,30 +2325,9 @@ TVR;Tuscan
 Ultima;Can-Am
 Ultima;GTR
 Ultima;RS
-Vauxhall;Adam
-Vauxhall;Ampera
 Vauxhall;Astra
-Vauxhall;Carlton
 Vauxhall;Cavalier
-Vauxhall;Chevette
-Vauxhall;Corsa
-Vauxhall;Firenza
-Vauxhall;Frontera
-Vauxhall;Insignia
-Vauxhall;Meriva
-Vauxhall;Mokka
-Vauxhall;Monaro
-Vauxhall;Omega
-Vauxhall;Royale
-Vauxhall;Tigra
-Vauxhall;Vectra
-Vauxhall;Velox
-Vauxhall;Ventora
-Vauxhall;Viceroy
-Vauxhall;Victor
 Vauxhall;Viva
-Vauxhall;VXR8
-Vauxhall;Zafira
 Vector;M12
 Vector;W8 Twin Turbo
 Venturi;210
@@ -3241,51 +2455,36 @@ Vortex;Corda
 Vortex;Estina
 Vortex;Tingo
 Voyah;Free
-VUHL;05
 W Motors;Fenyr Supersport
 W Motors;Lykan Hypersport
-Wanderer;W23
-Wanderer;W50
+Wanderer;W24
+Wanderer;W40
 Wartburg;1.3
 Wartburg;353
 Weltmeister;EX5
-Weltmeister;W6
 Westfield;SEi & Sport
-Westfield;SEiGHT
 Wiesmann;GT
 Wiesmann;Roadster
 Willys;CJ
 Willys;Jeepster
-Willys;Knight Model 20
 Willys;MB
 Xin Kai;Pickup X3
 Xin Kai;SR-V X3
 Xin Kai;SUV X3
 Xpeng;G3
 Xpeng;P7
-Yulon;Feeling
-Zastava;10
 Zastava;Florida
-Zastava;Skala
-Zastava;Yugo
 Zeekr;001
 Zenos;E10
 Zenvo;ST1
-Zenvo;TSR-S
 Zibar;MK2
 Zotye;Coupa
-Zotye;E200
-Zotye;Nomad (RX6400)
-Zotye;SR9
 Zotye;T600
-Zotye;Z100
 Zotye;Z300
 ZX;Admiral
 ZX;Grand Tiger
 ZX;Landmark
 Автокам;2160
-Автокам;2163
-Автокам;3101
 ГАЗ;12 ЗИМ
 ГАЗ;13 «Чайка»
 ГАЗ;14 «Чайка»
@@ -3372,17 +2571,6 @@ ZX;Landmark
 СМЗ;С-1Л
 СМЗ;С-3А
 СМЗ;С-3Д
-СМЗ;С-3Л
-Спортивные авто и Реплики;GT & Touring
-Спортивные авто и Реплики;Offroad
-Спортивные авто и Реплики;Shortcut
-Спортивные авто и Реплики;Багги Type 1
-Спортивные авто и Реплики;Драгстер
-Спортивные авто и Реплики;Дрифт-кар
-Спортивные авто и Реплики;Самоделки
-Спортивные авто и Реплики;Спортпрототип
-Спортивные авто и Реплики;Формула
-Спортивные авто и Реплики;Хот-род и Кастом
 ТагАЗ;Aquila
 ТагАЗ;C-30
 ТагАЗ;C10
@@ -3400,4 +2588,3 @@ ZX;Landmark
 УАЗ;Patriot
 УАЗ;Pickup
 УАЗ;Астеро
-Ё-мобиль;Ё-Кроссовер
